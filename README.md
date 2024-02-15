@@ -1,4 +1,6 @@
-# Instagram
+# Flutter: Instagram app
+
+A new design of Instagram app with Flutter
 
 
 
