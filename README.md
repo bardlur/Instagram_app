@@ -2,7 +2,9 @@
 
 A new design of Instagram app with Flutter
 
-
+## Support :
+- Android
+- IOS
 
 
 ## Video:
